@@ -1,6 +1,6 @@
 # bgockeln
 
-Curious mind with a growing focus on Linux, IT security, digital forensics, and the social impact of AI.
+Learning my way through Linux, IT security, and digital forensics — and thinking a lot about the impact of AI on society.
 
 
 ### Linux
