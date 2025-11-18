@@ -1,4 +1,4 @@
-# bgockeln
+# Ben Gockeln
 
 Learning my way through Linux, IT security, and digital forensics — and thinking a lot about the impact of AI on society.
 
@@ -32,7 +32,7 @@ I think we'll be impacted by this on a level we don’t fully understand yet. Th
 
 ### How I Work on Projects
 
-I treat each project here as a self-directed tutorial. It always starts with a general idea — for example, in my town simulator, I knew I wanted a CLI-based text adventure with streets, buildings, NPCs, and shops. I first designed the skeleton: the streets, buildings, and a player character that could navigate the world. Once the basic structure worked, I added an in-game map using Pygame, then NPCs with schedules, homes, and workplaces. Each step required problem-solving and iteration. ChatGPT helped along the way, but these projects were never simple copy-paste exercises — they took hours or days of thinking, testing, and debugging to get right.
+I treat each project here as a self-directed tutorial. It always starts with a general idea — for example, in my town simulator, I knew I wanted a CLI-based text adventure with streets, buildings, NPCs, and shops. I first designed the skeleton: the streets, buildings, and a player character that could navigate the world. Once the basic structure worked, I added an in-game map using Pygame, then NPCs with schedules, homes, and workplaces. Each step required problem-solving and careful tweaking.. ChatGPT helped along the way, but these projects were never simple copy-paste exercises — they took hours or days of thinking, testing, and debugging to get right.
 
 This approach applies to all my projects: I start with a vision, break it down, experiment, and refine. Even if the code isn’t perfect, the goal is to understand, learn, and build something meaningful. This has actually taught me more about programming — and Python in particular — than all the online tutorials I’ve done over the past years combined, because I didn’t just learn individual parts; I learned how to apply them and think ahead.
 
